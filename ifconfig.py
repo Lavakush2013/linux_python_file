@@ -1,1 +1,1 @@
-print('ifconfig')
+print("kingkong")
